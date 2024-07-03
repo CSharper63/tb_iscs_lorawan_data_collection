@@ -4781,4 +4781,36 @@
         "Authorization": "NNSXS.SMIID5JMODUFDSMHPF7JZV3JVAXSUKBYGL6SJ7Q.DUNK43E7R3JBFFJRE66NQMKCTU5WK4X3LC6EMJHLGSG3HZURPEBQ"
     },
     "content": ""
+},
+{
+    "timestamp": "2024-07-03 15:36:49",
+    "type": "http",
+    "method": "GET",
+    "host": "eu1.cloud.thethings.network",
+    "path": "/router-info",
+    "headers": {
+        "Host": "eu1.cloud.thethings.network:8887",
+        "Upgrade": "websocket",
+        "Connection": "upgrade",
+        "Sec-WebSocket-Key": "bpse8nVmEl6ZlX4lSb6RMw==",
+        "Sec-WebSocket-Version": "13",
+        "Authorization": "NNSXS.SMIID5JMODUFDSMHPF7JZV3JVAXSUKBYGL6SJ7Q.DUNK43E7R3JBFFJRE66NQMKCTU5WK4X3LC6EMJHLGSG3HZURPEBQ"
+    },
+    "content": ""
+},
+{
+    "timestamp": "2024-07-03 15:36:49",
+    "type": "http",
+    "method": "GET",
+    "host": "eu1.cloud.thethings.network",
+    "path": "/traffic/eui-A84041FFFF22AF58",
+    "headers": {
+        "Host": "eu1.cloud.thethings.network:8887",
+        "Upgrade": "websocket",
+        "Connection": "upgrade",
+        "Sec-WebSocket-Key": "bpse8nVmEl6ZlX4lSb6RMw==",
+        "Sec-WebSocket-Version": "13",
+        "Authorization": "NNSXS.SMIID5JMODUFDSMHPF7JZV3JVAXSUKBYGL6SJ7Q.DUNK43E7R3JBFFJRE66NQMKCTU5WK4X3LC6EMJHLGSG3HZURPEBQ"
+    },
+    "content": ""
 }]
